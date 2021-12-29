@@ -1,0 +1,147 @@
+#rodapé
+{
+	width: 100%;
+}
+#atendimento
+{
+	float:left;
+	width: 33%;
+}
+
+#conta 
+{
+	float: left; 
+	width: 34%;
+}
+
+#info
+{
+	float: left; 
+	width: 33%;
+}
+
+#imagem
+{
+	width: 200px;
+	height:100px; 
+	border:1px black solid;
+}
+hr
+{
+	width: 100%;
+
+}
+#imagem1
+{
+	width: 50px;
+	height:50px; 
+	float: left; 
+	width: 45%;
+}
+	
+}
+#nomes #valores 
+{
+	width:100%
+}
+#p
+{
+	float: left; 
+	width: 45%;
+}
+.e 
+{
+	float: left; 
+	width: 15%;
+}
+.pc
+{
+	float: left; 
+	width: 15%;
+}
+.q 
+{
+	float: left; 
+	width: 15%;
+}
+.t 
+{
+	float: left; 
+	width: 10%;
+}
+#Meio
+{
+	width:100%;	
+	
+}
+#AddCodigo
+{
+	float: left; 
+	width: 58%;
+	background-color:#e4e4e4;
+	color:#C0C0C0;
+	border:2px solid;
+	border-radius:10px;
+	padding-left: 2px;
+	margin-bottom: 10px;	
+}
+#add
+{
+	float: left; 
+	width: 25%;
+	text-align: center;
+	margin-bottom: 10px;
+}
+#dados
+{
+	float: left; 
+	width: 15%;
+	margin-bottom: 10px;
+}
+#termos
+{
+	float:right;
+	margin-bottom: 10px;
+}
+#caixinha
+{
+	width:10px;
+	height:10px;
+	border:1px black solid;
+	float:left;
+	margin-bottom: 10px;	
+}
+#final
+{
+	width:100%;
+	margin-bottom: 10px;	
+}
+#Fimc
+{
+	float: left; 
+	width:28%;
+	background-color:blue;
+	color:white;
+	height:30px;
+	text-align:center;
+	
+}
+#addp
+{
+	float: left; 
+	width: 30%;
+	background-color:green;
+	color:white;
+	height:30px;
+	margin-left: 10px;
+	text-align:center;
+		
+}
+@media screen and (min-width: 768px)
+{
+	flex-direction:row;
+	justify-content: space-around;	
+}
+
+
+

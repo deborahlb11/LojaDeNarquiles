@@ -1,0 +1,33 @@
+Body 
+{
+	background-color: #A9A9A9;
+}
+.Titulo1
+
+{
+	font-size: 24px;
+	color: #FB4A13;
+	font-weight: bolder;
+	font-family: Inter;
+	font-style: normal;
+}
+
+#Texto1
+{
+	text-align: justify;
+	text-indent: 10px;
+	
+}
+
+#Texto2
+{
+	text-align:left;
+	text-indent: 10px;
+	
+}
+@media screen and (min-width: 768px)
+{
+	flex-direction:row;
+	justify-content: space-around;	
+}
+

@@ -1,0 +1,58 @@
+			 #login
+			 {
+				background-color:#93cbef;
+				float:right;
+				border-radius:10px, 10px, 10px, 10px;
+				
+				
+			 }
+			#centro
+			{
+				margin-left: auto;
+				margin-right: auto;
+				width: 15em;
+			}
+			  
+			#tabela
+			{
+				width:100%;
+			}
+			
+			#compra
+			{
+				background-color:#3CB371;
+				color:white;
+				float: right;
+				width: 100px;
+				text-align: center;
+				font-size:16px;
+			}	
+			#frase1
+			{
+				color:green;
+			}
+			#frase2
+			{
+				color:green;
+				font-size:24px;
+				font-style:bold;
+			}
+			#tabela1
+			{
+				width:100%;
+				float:left;
+			}
+			#frase1
+			{
+				color:green;
+			}
+
+			@media screen and (min-width: 768px)
+			{
+					flex-direction:row;
+					justify-content: space-around;	
+			}
+			
+			
+			
+			
